@@ -1,0 +1,42 @@
+.buttons{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 40px;
+}
+
+.buton-explore{
+    grid-area: main;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    margin-top: 80px;
+    height: 60px;
+    width: 110px;
+    background: rgba(252, 71, 84, 0.91);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.buton-conect{
+    grid-area: main;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    margin-top: 80px;
+    height: 60px;
+    width: 110px;
+    border: 2px solid rgba(252, 71, 84, 0.91);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.button_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 200px;
+    background: rgba(252, 71, 84, 0.91);
+    border-radius: 4px;
+    
+}
