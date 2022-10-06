@@ -1,0 +1,41 @@
+.cabecacalho-header-pai{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.div-topics{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    height: 70px;
+    width: 130px;
+    background-color: rgba(252, 71, 84, 0.91);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.button:hover{
+    background-color: rgba(252, 71, 84, 0.91) ;
+    border: 6px solid black;
+    transition: 0,5s;
+}
+
+.title-header:hover{
+    font-size: 35px;
+    transition: 3s;
+}

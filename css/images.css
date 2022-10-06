@@ -1,8 +1,12 @@
-.image-ravena{
-    position: absolute;
-    left: 1300px;
-    top: 280px;
-    width: 400px;
-    height: 500px;
-    border: 1px solid white;
+.image-valorant{
+    
+    border: 2px solid rgba(252, 71, 84, 0.5);
+    margin-top: 10%;
+    height: 80%;
+    width: 60%;
+}
+.image-pai{
+    display: flex;
+    justify-content: first baseline;
+    align-items: flex-end;
 }
